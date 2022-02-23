@@ -1,0 +1,310 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A second dialogue between a new Catholick convert and a Protestant shewing why he cannot believe the doctrine of transubstantiation, though he do firmly believe the doctrine of the Trinity.</title>
+            <author>Kidder, Richard, 1633-1703.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47336</idno>
+            <idno type="STC">Wing K411</idno>
+            <idno type="STC">ESTC R17457</idno>
+            <idno type="EEBO-CITATION">12865118</idno>
+            <idno type="OCLC">ocm 12865118</idno>
+            <idno type="VID">94726</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47336)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94726)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 985:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A second dialogue between a new Catholick convert and a Protestant shewing why he cannot believe the doctrine of transubstantiation, though he do firmly believe the doctrine of the Trinity.</title>
+                  <author>Kidder, Richard, 1633-1703.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for B. Aylmer ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+                  <note>Attributed to Richard Kidder. cf. NUC pre-1056.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lord's Supper --  Controversial literature.</term>
+               <term>Transubstantiation --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:94726:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 17 -->
+            <p>
+               <hi>SECOND DIALO<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> Between a New <hi>Catholick Convert</hi> AND A PROTESTANT.</p>
+            <p>Shewing why he cannot believe the Doctrine of <hi>Tranſubſtantiation,</hi> Though he do firmly believe the Doctrine Of the Trinity.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>B. Aylmer,</hi> at the Three Pigeons againſt the <hi>Royal Exchange</hi> in <hi>Cornhill.</hi> 1687.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:94726:2"/>
+            <!-- PDF PAGE 18 -->
+            <p>IMPRIMATUR.</p>
+            <closer>
+               <dateline>
+                  <date>Decemb. 3. 1686.</date>
+               </dateline>
+               <signed>Guil. Needham.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <head>A <hi>Second Dialogue</hi> Between a new CATHOLICK CONVERT AND A Proteſtant, &amp;c.</head>
+            <sp>
+               <speaker>A.</speaker>
+               <p>SIR, I much rejoyce to meet you thus happily, and I hope I find you at leiſure.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>I am not onely at leiſure, but very much diſpo<g ref="char:EOLhyphen"/>ſed to diſcourſe with you farther of that matter which you commended to my conſideration when we were laſt together.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>And I hope you have duly conſidered it; if you have done ſo, I make no doubt but you are of my mind.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>I do not find in my ſelf any inclination ſo pre<g ref="char:EOLhyphen"/>vailing as that which I have towards truth; and you will believe me when I tell you that in matters of this nature I am not likely to be drawn from it by any worldly intereſt. I have the indifference of a Traveller, and deſire nothing but to find the right way to Heaven.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>This perſwaſion I have had of you always; and as this diſpoſition to embrace the truth, where ever it is, well becomes an honeſt mind, ſo I do not fear but you are by this time convinced, that when you believe the Doctrine of the <hi>Holy Trinity,</hi> you cannot reject
+<pb n="4" facs="tcp:94726:3"/>
+                  <!-- PDF PAGE 19 -->the belief of the Doctrine of <hi>Tranſubſtantiation;</hi> For you remember that this is the queſtion that we diſputed on when we met laſt.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>You are very right when you ſay that was the queſtion between us. And I do very well remember that you uſed theſe very words; <hi>As theſe two Doctrines have equal ground from Scripture,</hi>
+                  <note place="margin">Pag. 2.</note> 
+                  <hi>Reaſon and Tradition; ſo is there the ſame obligation of your receiving the one as well as the other.</hi> I do freely own that I believe the <hi>H. Trinity,</hi> and that I do not believe the Doctrine of <hi>Tranſubſtantiation;</hi> and therefore do not think my ſelf obliged to believe the <hi>one</hi> becauſe I believe the <hi>other.</hi> And, if you pleaſe to give me the hearing, I will frankly tell you why I cannot believe the Doctrine of <hi>Tranſubſtantiation</hi> true, and then I'll give you my reaſons why, though I do believe the <hi>Holy Trinity,</hi> I do not think my ſelf obliged for the ſame reaſon to believe your Doctrine of <hi>Tran<g ref="char:EOLhyphen"/>ſubſtantiation.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>As to the firſt of theſe you may I conceive ſpare your pains. I deſire not to hear your reaſons againſt that Doctrine of the Catholick Church. 'Tis the other matter you are moſt concerned in, <hi>viz.</hi> to give good reaſon why you do not believe the <hi>one</hi> as well as the <hi>other.</hi> But I give you liberty to proceed in your own way.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>I ſhall be very brief as to the firſt of theſe, and onely touch upon ſome things that do abſolutely hin<g ref="char:EOLhyphen"/>der me from believing this Doctrine of <hi>Tranſubſtantia<g ref="char:EOLhyphen"/>tion.</hi> Nothing is more certain than that this Doctrine deſtroys the evidence of Senſe, and conſequently ſub<g ref="char:EOLhyphen"/>verts our whole Religion. We cannot be certain of the truth of the Miracles which <hi>Jeſus</hi> did, nor of his Reſurrection, if our ſenſes are not to be credited even then when the object of them is at a due diſtance, and the <hi>medium</hi> and organ rightly diſpoſed, and all other re<g ref="char:EOLhyphen"/>quiſites
+<pb n="5" facs="tcp:94726:3"/>
+                  <!-- PDF PAGE 19 -->in due order. And by the very ſame r<gap reason="illegible" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> I be<g ref="char:EOLhyphen"/>lieve this Doctrine true I may ſuſpect the reſt <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Re<g ref="char:EOLhyphen"/>ligion. In a word, it ſeems to me to be a <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> falſhood, and nothing can be more evidently <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>nifeſtly true than this is manifeſtly falſe: And you will in vain attempt to prove any of your Doctrines from the Bible, when, according to this Doctrine I may not truſt my Eyes, and may as well deny that there is any ſuch place of Scripture which you alledge, as you can affirm the truth of this Doctrine, againſt the evidence of ſenſe. Beſides it labours with difficulties and abſurdities that are inſupportable.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>But we are not to reject a Doctrine becauſe it is attended with ſome conſiderable difficulties, for then we may reject that of the <hi>Holy Trinity,</hi> and of the <hi>In<g ref="char:EOLhyphen"/>carnation,</hi> and <hi>Reſurrection of our Bodies.</hi> And there are great difficulties in the account of the genealogy of <hi>Jeſus</hi> by St. <hi>Matthew</hi> and St. <hi>Luke,</hi> and yet I preſume you believe theſe Doctrines, and do not queſtion the truth of either Evangeliſt how inconſiſtent ſoever they may ſeem to be one with another.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Miſtake me not, Sir, I am far from thinking that we are to reject thoſe Doctrines which are attend<g ref="char:EOLhyphen"/>ed with great difficulties: But yet we are certain that Doctrine cannot be true, which if it were allowed ſo to be, would ſubvert the whole Religion, and leave <hi>nothing</hi> certain or true but it ſelf; nor leave us any <hi>evidence</hi> that it ſelf is true.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Let me intreat you to ſpeak to the main point, that is, give me your reaſons why when you believe the Doctrine of the <hi>Holy Trinity</hi> you ſhould reject this of <hi>Tranſubſtantiation;</hi> for if this be attended with great difficulties, ſo is the other.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>This I will readily do, but muſt tell you again that I do not reject any Doctrine becauſe of the difficulties attending on it.</p>
+            </sp>
+            <sp>
+               <pb n="6" facs="tcp:94726:4"/>
+               <!-- PDF PAGE 20 -->
+               <speaker>A.</speaker>
+               <p>Aſſign then the reaſons why when you do believe the <hi>Trinity,</hi> you deny that Doctrin<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> which hath <hi>Equal Ground</hi> for it from <hi>Scripture, Reaſon</hi> and <hi>Tradition.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>I can by no means grant that it hath <hi>Equal Ground:</hi> And I will therefore give you the reaſons which you demand. And</p>
+               <p>
+                  <hi>Firſt,</hi> The Doctrine of the <hi>Trinity</hi> is revealed in the Scripture, in this both ſides are agreed: The other Doctrine is not revealed, ſo the <hi>Prote<g ref="char:EOLhyphen"/>ſtants</hi> with one conſent affirm:<note place="margin">Salmeron To. <hi>9.</hi> tract. <hi>16.</hi>
+                  </note> And in<g ref="char:EOLhyphen"/>deed thoſe of your Church grant that the Doctrine of <hi>Tranſubſtantiation</hi> is not evidently revealed in Holy Writ.<note place="margin">Bellarmin. de Euchar. l. <hi>3.</hi> cap. <hi>23.</hi>
+                  </note> 
+                  <hi>Scotus</hi> affirms, as <hi>Bellarmin</hi> confeſſeth (and thinks his opinion not altogether improba<g ref="char:EOLhyphen"/>ble) that <hi>Tranſubſtantiation</hi> cannot be evidently pro<g ref="char:EOLhyphen"/>ved from any expreſs Scripture. Now the Fathers of the Council of <hi>Nice</hi> urge the Text of H. Writ againſt the <hi>Arians.</hi> But the Church of <hi>Rome</hi> maintains their Doctrine upon another bottom, and that is the autho<g ref="char:EOLhyphen"/>rity and declaration of the Church.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>But do we not bring Texts of Scripture for the proof of this Doctrine?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>That you do frequently, but then the greater and wiſer of your Divines will not lay the ſtreſs of the cauſe upon Scripture. I except out of this number Mr. <hi>Sclater</hi> of <hi>Putney,</hi>
+                  <note place="margin">Conſenſ. vet. pag. <hi>20.</hi>
+                  </note> who is for the literal ſenſe of thoſe words, <hi>This is my Body,</hi> becauſe the <hi>nature of a laſt Will and Teſtament</hi> requires it ſhould be ſo. But, alas! he con<g ref="char:EOLhyphen"/>ſiders not what follows, where 'tis ſaid in theſe words of this laſt Will and Teſtament, that the <hi>Cup is the New Teſtament of his Bloud,</hi> where he will be forced to ac<g ref="char:EOLhyphen"/>knowledge a figure or two. But he that can prove <hi>Tranſubſtantiation</hi> from the <hi>Rabbias,</hi> may be allowed a greater liberty than other men think fit to take.</p>
+            </sp>
+            <sp>
+               <pb n="7" facs="tcp:94726:4"/>
+               <!-- PDF PAGE 20 -->
+               <speaker>A.</speaker>
+               <p>Have you a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y other rea<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on to alledge why you do not, when you believe the <hi>Trinity,</hi> bel<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Doctrine alſo?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>I have, and having ſhewed that your Doctrine hath not equal ground from <hi>Scripture,</hi> I add</p>
+               <p>
+                  <hi>Secondly,</hi> That it hath not equal ground from <hi>Rea<g ref="char:EOLhyphen"/>ſon.</hi> 'Tis certain, and hath been abundantly made good that your Doctrine contradicts right Reaſon: It involves a heap of contradictions: it ſuppoſeth a change of ſubſtance when the accidents remain, that theſe accidents ſhould nouriſh, or deſtroy: That the ſame body ſhould be in many places at once, broken and whole at the ſame time; that a whole body ſhould be in a point; that every wafer ſhould be the whole bo<g ref="char:EOLhyphen"/>dy, and yet the body be but one. That a thing can be divided into wholes. I forbear to name much more to the ſame purpoſe. The Doctrine of the <hi>Trinity</hi> is indeed above our reaſon and comprehenſion, but you will not ſay 'tis againſt it. Beſides 'tis revealed, and 'tis reaſonable to believe what God ſays. Beſides we are better able to judge the nature of bodies (upon which account we reject your Doctrine as manifeſtly falſe) than of the ſpiritual and incomprehenſible na<g ref="char:EOLhyphen"/>ture of God. We reject not what our reaſon does not comprehend. But ſhall we therefore believe what is a contradiction to all the reaſon of mankind? And be<g ref="char:EOLhyphen"/>cauſe we do not comprehend the ſublime nature of God, may we not rely upon our ſenſes when they are employed on their proper objects?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Have you any other reaſon why you reject <hi>Tran<g ref="char:EOLhyphen"/>ſubſtantiation,</hi> when you believe the <hi>Trinity?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Having ſhewed that your Doctrine hath not E<g ref="char:EOLhyphen"/>qual Ground from <hi>Scripture</hi> and <hi>Reaſon,</hi> I add, that it hath not,</p>
+               <p>
+                  <hi>Thirdly,</hi> Equal grou<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d from <hi>Authority.</hi> Indeed you produced none at all, and therefore I need not cite any
+<pb n="8" facs="tcp:94726:5"/>
+                  <!-- PDF PAGE 21 -->
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <hi>the <note place="margin">
+                        <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </note> in the Do<g ref="char:EOLhyphen"/>ctri<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e of</hi> Tranſubſtantiation, <hi>as they are in<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> M<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ery of the Holy Trinity.</hi> It will be hard to re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>e this conceſſion with what you affirmed a little above, that theſe two Doctrines <hi>have Equal ground from Tradition.</hi> But he that believes the Doctrine it ſelf, need n<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ggle to ſay, that not <hi>half ſo much is yet Eq<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>al ground.</hi> 'Tis true you pretend to give a good reaſon why the Fathers are not half ſo ex<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reſs in the one as in the other. Becauſe <hi>Tranſubſtantiation hath not been a Doctrine ſo long in diſpute, and 'tis not Cuſto<g ref="char:EOLhyphen"/>mary for men to argue unqueſtionable truths.</hi> I do eaſily believe it hath not been <hi>ſo long in diſpute;</hi> no ſuch thing being heard of in the primitive and beſt times. And 'tis eaſier to <hi>ſuppoſe</hi> it an unqueſtionable truth than to <hi>prove</hi> it to have been profeſſed at all. But this is to beg and not to prove the queſtion.</p>
+               <p>I will add no more reaſons, though I might eaſily do it, becauſe I am for brevity as well as you. I have abundantly ſhewed that theſe two Doctrines have not Equal ground from Scripture, Reaſon and Tradition, and that there is not the ſame obligation to receive one as the other.</p>
+               <p>And thus, Sir, though I cannot acquieſce in what you ſay, yet I heartily thank you for your good Prayer, and beg you wou'd joyn with me in repeating it in behalf of all Chriſtians. <hi>God give us his <hi>Holy Spirit</hi> to inſtruct us.</hi>
+               </p>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:94726:5"/>
+            <!-- PDF PAGE 21 -->
+         </div>
+      </body>
+   </text>
+</TEI>
